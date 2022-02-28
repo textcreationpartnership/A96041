@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and speech of the Lord Admiral Vantrump, and his setting up the great standard of broom for the states of Holland, for the cleering of the narrow seas of all English-men; with the states remonstrance to all Christian princes; and their proceedings concerning the King of Scots.</title>
+            <author>Tromp, Maarten Harpertsz., 1598-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96041</idno>
+            <idno type="STC">Wing V97</idno>
+            <idno type="STC">Thomason E689_13</idno>
+            <idno type="STC">ESTC R206932</idno>
+            <idno type="EEBO-CITATION">99866020</idno>
+            <idno type="PROQUEST">99866020</idno>
+            <idno type="VID">166454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166454)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E689[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and speech of the Lord Admiral Vantrump, and his setting up the great standard of broom for the states of Holland, for the cleering of the narrow seas of all English-men; with the states remonstrance to all Christian princes; and their proceedings concerning the King of Scots.</title>
+                  <author>Tromp, Maarten Harpertsz., 1598-1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 9. 1652"; the 3 in the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166454:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND SPEECH OF The Lord Admiral VANTRUMP, And his ſetting up the great Standard of Broom for the States of <hi>Holland,</hi> for the cleering of the Narrow ſeas of all <hi>Engliſh-men;</hi> With the States Remonſtrance to all Chriſtian Princes; and their proceedings con<g ref="char:EOLhyphen"/>cerning the King of Scots.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166454:2"/>
+            <pb n="3" facs="tcp:166454:2"/>
+            <head>New Broom ſweepes clean: OR, THE DECLARATION AND SPEECH Of Vantrump, Admiral for the States of Holland, concerning the ſetting up of their Standard, for the cleering of the Narrow ſeas of all the Engliſh.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>IT is a notable ſaying, though Machia<g ref="char:EOLhyphen"/>vel's; Not he that placeth a vertuous Government in his own Hands or Fa<g ref="char:EOLhyphen"/>mily,
+<pb n="4" facs="tcp:166454:3"/>but he that eſtabliſheth a free and laſt<g ref="char:EOLhyphen"/>ing Form, for the peoples conſtant ſecurity is moſt to be commended. Whoſoever has this opportunity, may improve his actions to a greater height of Glory, then ever fol<g ref="char:EOLhyphen"/>lowed the fame of any ambitious Idol that could aſpire to the Pinacle of Anarchy; al<g ref="char:EOLhyphen"/>though Vantrump is now pleaſed to de<g ref="char:EOLhyphen"/>clare againſt thoſe, who has purchas'd them<g ref="char:EOLhyphen"/>ſelves Fame, in defence of their Liberties: as evidently appeares, by his ſetting forth a flag (or ſtandard) of Broom; and being de<g ref="char:EOLhyphen"/>manded what he meant by it, reply'd, That he was once more going to ſweep the Nar<g ref="char:EOLhyphen"/>row ſeas of all Engliſh men. Indeed all poſ<g ref="char:EOLhyphen"/>ſible means are uſed for re-inforcing of their fleet; and great is their talk, of Prince Rup. ſir G. Carteret, and the French; ſo that as ſoon as the Monſieur has put off his court<g ref="char:EOLhyphen"/>ing face, and ſet himſelf in a ſemblance of ac<g ref="char:EOLhyphen"/>tion, they may look as formidable as a fleet
+<pb n="5" facs="tcp:166454:3"/>of one hundred ſail; but the ſervice which may be expected, can be nothing more then querks of Pyracie, the frolicks of a skipping guilt; for an ill cauſe carries evermore with it ſuch a ſting of condemnation in the bo<g ref="char:EOLhyphen"/>ſome, that though their inſtrumental means ſeem conſiderable, yet there is an inward in<g ref="char:EOLhyphen"/>junction ſits upon their conſcious ſoules, that valour in ſuch perſons is capable of no other or better tearm then a deſperate Gal<g ref="char:EOLhyphen"/>lantry.</p>
+            <lg>
+               <l>If number and ſucceſs prove Cauſes good,</l>
+               <l>And Titles ne'r look eleer, till dy'd in bloud,</l>
+               <l>The Turk out ſtrips us all, for in his skie</l>
+               <l>No Star ſo low as Chriſtianity</l>
+               <l>But when we ſearch the intricate reſolve</l>
+               <l>Of Heaven to bruiſe a Nation, then re-ſalve</l>
+               <l>His wounded People, there is no ſuch thing</l>
+               <l>As the ſurviving Crown of ſuffering;</l>
+               <l>But ſtill obſerve the method of a God,</l>
+               <l>Though <hi>Nile</hi> drown <hi>Jordan,</hi> yet he burns the rod.</l>
+            </lg>
+            <p>The States, we hear, have put forth a Declaration to all Chriſtian Princes, im<g ref="char:EOLhyphen"/>ploring aid and aſſiſtance; and are very vi<g ref="char:EOLhyphen"/>gorous in proſecuting their Deſign.</p>
+            <pb n="6" facs="tcp:166454:4"/>
+            <p>Again, The States proceed on vigorouſly in ſet<g ref="char:EOLhyphen"/>ting forth a new Armado; no leſs then eighty ſayl is voted for, in caſe they receive not an Act invin<g ref="char:EOLhyphen"/>cible, or a a Repeal from England: ſome Frigats are already off from the Stocks, and Dewitte is the onely man whom they now pin their faith upon; but that which renders them indifferent willing, is, their ſtrange Fancies and new Gingles of infuſing an incredible belief into the hearts of the people, viz. That your General Cromwel is confined to the Tower of London: but upon what grounds, they know not,</p>
+            <p>That the Ciry is extreamly divided; and that the Levellers begin to grow both high and potent, and threaten a ſudden change; with many other falaci<g ref="char:EOLhyphen"/>ous Deviſes, of the Lord Grey's drawing his Sword in the Parliament houſe againſt his Excellency, the creating of collonel Harriſon General of the ſoul<g ref="char:EOLhyphen"/>diery, and divers other circumſtances of the like coyn, which will prove too light for theſe Artiſts of the Flemiſh Mint. Nay, further, they retain ſuch un<g ref="char:EOLhyphen"/>parallel'd atchievements of their Victors at ſea, that all is like to be their own in England, forſooth; and nothing but Death and Impriſonment ſhall be the Reward and Portion of the Members of Parlia<g ref="char:EOLhyphen"/>ment, without either Bail or Mainprize. Again, they pleaſe themſelves very much with thoughts of
+<pb n="7" facs="tcp:166454:4"/>ſtrange mutinies among our men, both by Land and Sea, and diviſions amongſt your Governours, and Commanders, whereupon they expect a ſud<g ref="char:EOLhyphen"/>den change; and it is for certain reported, that Hull, Yarmouth, and the Divel and all, are revolted to the Royal party. And yet all this will not get in the In<g ref="char:EOLhyphen"/>tereſt of Monarchy, though that party do pretend mountains of golden advantages thereby for the ta<g ref="char:EOLhyphen"/>ming of the Engliſh: All that they do for him as yet, is to give him free Port for ſuch ſhips as ſhall by his commiſſion fail. But now bat the Zealand Lords are arrived here, ſomewhat more will be attempted, not onely for him, but alſo in the behalf of the O<g ref="char:EOLhyphen"/>range Family.</p>
+            <p>But that which doth not a little amuſe them, is, the great Armado ſetting forth by your provident States, a Liſt whereof is here preſented to publike view throughout the Netherlands; but the Printers and Publiſhers are moſt unjuſtly detained, and con<g ref="char:EOLhyphen"/>fined to cloſe impriſonment.</p>
+            <p>The genuine ſenſe of their Charge runs thus: For holding correſpondency with the enemies of this State; For endeavouring to ſet up the Spirit of Di<g ref="char:EOLhyphen"/>viſion, and perfidiouſly to withdraw the hearts of the people from their due obedience, and indeated affection towards this State, &amp;c. Erected and ſet up by the Providence of Heaven.</p>
+            <pb n="8" facs="tcp:166454:5"/>
+            <p>All which, is grounded upon theſe following particulars, viz.</p>
+            <list>
+               <item>1 That the Engliſh conſiſt of 100 ſail, Men of War,</item>
+               <item>2 That there is a Deſign to land an Ar<g ref="char:EOLhyphen"/>my in Flanders.</item>
+               <item>3 That the Royal Soveraign (alias the Common-Wealth) is putting forth with 700 men, and 102 Guns.</item>
+               <item>4 That the Reſolution, the James, and divers others, are alſo putting forth from Portſmouth,</item>
+            </list>
+            <lg>
+               <l>Heaven crown the truth with Victory, if it</l>
+               <l>Be right to wiſh ſuch bliſs, we ſlighting it.</l>
+               <l>Great Neptune, thou that rul'st the foaming waves,</l>
+               <l>Give Malefactors their deſerved graves.</l>
+               <l>And if we muſt ſurvive, let malice ceaſe,</l>
+               <l>And wed our Land to ſurer bonds of peace.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
